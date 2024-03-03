@@ -997,91 +997,11 @@
             },
             "url": "https://www.notion.so/9f0fb5d94d654ee4bf8b68dda88afece",
             "public_url": null
-        },
-        {
-            "object": "page",
-            "id": "d53c1073-76d6-46a0-a2b3-324597e968d2",
-            "created_time": "2024-03-01T10:48:00.000Z",
-            "last_edited_time": "2024-03-01T13:05:00.000Z",
-            "created_by": {
-                "object": "user",
-                "id": "a0d4f906-9a6a-458e-ab0c-d892b64bb5b5"
-            },
-            "last_edited_by": {
-                "object": "user",
-                "id": "a0d4f906-9a6a-458e-ab0c-d892b64bb5b5"
-            },
-            "cover": null,
-            "icon": null,
-            "parent": {
-                "type": "database_id",
-                "database_id": "568d7824-8f6a-4807-a26b-2fd7bdeeeaaf"
-            },
-            "archived": false,
-            "properties": {
-                "课程序号": {
-                    "id": "A%7B%5Dz",
-                    "type": "rich_text",
-                    "rich_text": []
-                },
-                "教师": {
-                    "id": "CtT%3D",
-                    "type": "rich_text",
-                    "rich_text": []
-                },
-                "上课时间": {
-                    "id": "MSWR",
-                    "type": "date",
-                    "date": null
-                },
-                "课程代码": {
-                    "id": "YN%5DQ",
-                    "type": "rich_text",
-                    "rich_text": []
-                },
-                "🏢 课程列表": {
-                    "id": "%5C%3C%5BX",
-                    "type": "relation",
-                    "relation": [
-                        {
-                            "id": "df229daf-db99-4482-b118-7ebcf27a5c0c"
-                        }
-                    ],
-                    "has_more": false
-                },
-                "WeekCode": {
-                    "id": "%5EFJQ",
-                    "type": "multi_select",
-                    "multi_select": []
-                },
-                "上课地点": {
-                    "id": "lHwM",
-                    "type": "rich_text",
-                    "rich_text": []
-                },
-                "是否到课": {
-                    "id": "w%7DqA",
-                    "type": "checkbox",
-                    "checkbox": false
-                },
-                "学分": {
-                    "id": "yKj%3C",
-                    "type": "rich_text",
-                    "rich_text": []
-                },
-                "课程名称": {
-                    "id": "title",
-                    "type": "title",
-                    "title": []
-                }
-            },
-            "url": "https://www.notion.so/d53c107376d646a0a2b3324597e968d2",
-            "public_url": null
         }
     ],
     "next_cursor": null,
     "has_more": false,
     "type": "page_or_database",
     "page_or_database": {},
-    "request_id": "a7131bbb-18dc-4769-8cad-f21cd335fb7e"
+    "request_id": "8543b661-b419-4601-bc7b-91b4615f9ac8"
 }
