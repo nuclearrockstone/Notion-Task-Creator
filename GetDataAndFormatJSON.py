@@ -7,7 +7,7 @@ import json
 from collections import defaultdict
 import datetime
 #导入单节课程信息
-lessonfile = open('LessonData.json', 'r', encoding='utf8')
+lessonfile = open('LessonData4.json', 'r', encoding='utf8')
 lessons=json.loads(lessonfile.read())["activities"]
 lessonsalphadata=[]
 #把所有课程的信息导入，以小节（45分钟）的形式导入JSON

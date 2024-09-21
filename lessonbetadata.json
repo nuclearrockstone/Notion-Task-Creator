@@ -1,11 +1,111 @@
 [
+
+
+
     {
-        "CourseName": "工科数学分析B",
+        "CourseName": "微积分II",
         "TeacherName": "韩健",
-        "ClassRoom": "23楼502",
-        "CourseCode": "8778(00384)",
-        "VaildWeek": "00111111111111111000000000000000000000000000000000000",
+        "ClassRoom": "23楼504",
+        "CourseCode": "45204(03948)",
+        "VaildWeek": "01111111111111100000000000000000000000000000000000000",
         "WeekCode": 1,
+        "DayCode": [
+            3,
+            4
+        ]
+    },
+    {
+        "CourseName": "复变函数",
+        "TeacherName": "钟书慧",
+        "ClassRoom": "23楼408",
+        "CourseCode": "17161(04107)",
+        "VaildWeek": "00000000011111111000000000000000000000000000000000000",
+        "WeekCode": 1,
+        "DayCode": [
+            9,
+            10
+        ]
+    },
+    {
+        "CourseName": "微积分II",
+        "TeacherName": "韩健",
+        "ClassRoom": "23楼504",
+        "CourseCode": "45204(03948)",
+        "VaildWeek": "01111111111111100000000000000000000000000000000000000",
+        "WeekCode": 2,
+        "DayCode": [
+            3,
+            4
+        ]
+    },
+    {
+        "CourseName": "精密仪器物理基础（近代物理部分）",
+        "TeacherName": "吴亮",
+        "ClassRoom": "26楼A207",
+        "CourseCode": "45130(04010)",
+        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
+        "WeekCode": 3,
+        "DayCode": [
+            3,
+            4
+        ]
+    },
+    {
+        "CourseName": "复变函数",
+        "TeacherName": "钟书慧",
+        "ClassRoom": "23楼202",
+        "CourseCode": "17161(04107)",
+        "VaildWeek": "00000000011111111000000000000000000000000000000000000",
+        "WeekCode": 3,
+        "DayCode": [
+            7,
+            8
+        ]
+    },
+    {
+        "CourseName": "仪器专业导论",
+        "TeacherName": "吴腾飞",
+        "ClassRoom": "26楼B116",
+        "CourseCode": "44291(03839)",
+        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
+        "WeekCode": 3,
+        "DayCode": [
+            9,
+            10
+        ]
+    },
+    {
+        "CourseName": "微积分II",
+        "TeacherName": "韩健",
+        "ClassRoom": "23楼504",
+        "CourseCode": "45204(03948)",
+        "VaildWeek": "01111111111111100000000000000000000000000000000000000",
+        "WeekCode": 4,
+        "DayCode": [
+            3,
+            4
+        ]
+    },
+    {
+        "CourseName": "电磁场与电磁波",
+        "TeacherName": "付士杰",
+        "ClassRoom": "26楼A307",
+        "CourseCode": "17941(01174)",
+        "VaildWeek": "01111110000000000000000000000000000000000000000000000",
+        "WeekCode": 4,
+        "DayCode": [
+            7,
+            8
+        ]
+    },
+
+    {
+        "CourseName": "精密仪器物理基础（近代物理部分）",
+        "TeacherName": "吴亮",
+        "ClassRoom": "26楼A115",
+        "CourseCode": "45130(04010)",
+        "VaildWeek": "00101010101010101000000000000000000000000000000000000",
+        "WeekCode": 5,
         "DayCode": [
             1,
             2
@@ -13,233 +113,14 @@
     },
     {
         "CourseName": "场论",
-        "TeacherName": "赵建勋",
-        "ClassRoom": "23楼208",
-        "CourseCode": "17163(02450)",
-        "VaildWeek": "01111000000001111000000000000000000000000000000000000",
-        "WeekCode": 1,
-        "DayCode": [
-            5,
-            6
-        ]
-    },
-    {
-        "CourseName": "电路信号与系统",
-        "TeacherName": "曾周末",
-        "ClassRoom": "26楼A111",
-        "CourseCode": "40387(02186)",
-        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
-        "WeekCode": 1,
-        "DayCode": [
-            7,
-            8
-        ]
-    },
-    {
-        "CourseName": "军事理论1",
-        "TeacherName": "梁光强",
-        "ClassRoom": "西阶201",
-        "CourseCode": "17113(02591)",
-        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
-        "WeekCode": 1,
-        "DayCode": [
-            9,
-            10
-        ]
-    },
-    {
-        "CourseName": "线性代数及其应用",
-        "TeacherName": "朱高生",
-        "ClassRoom": "23楼106",
-        "CourseCode": "17170(02449)",
-        "VaildWeek": "01111111111111100000000000000000000000000000000000000",
-        "WeekCode": 2,
-        "DayCode": [
-            1,
-            2
-        ]
-    },
-    {
-        "CourseName": "物理基础 A",
-        "TeacherName": "刘卫芳",
-        "ClassRoom": "23楼504",
-        "CourseCode": "40704(02184)",
-        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
-        "WeekCode": 2,
-        "DayCode": [
-            3,
-            4
-        ]
-    },
-    {
-        "CourseName": "单片机开发与应用",
-        "TeacherName": "何峰",
-        "ClassRoom": "19楼301",
-        "CourseCode": "16221(02618)",
+        "TeacherName": "钟书慧",
+        "ClassRoom": "23楼114",
+        "CourseCode": "17163(01349)",
         "VaildWeek": "01111111100000000000000000000000000000000000000000000",
-        "WeekCode": 2,
-        "DayCode": [
-            5,
-            6,
-            7,
-            8
-        ]
-    },
-    {
-        "CourseName": "大学生心理健康（下）",
-        "TeacherName": "焦璇",
-        "ClassRoom": "26楼A107",
-        "CourseCode": "40530(03811)",
-        "VaildWeek": "00000000011111111000000000000000000000000000000000000",
-        "WeekCode": 2,
-        "DayCode": [
-            9,
-            10
-        ]
-    },
-    {
-        "CourseName": "工科数学分析B",
-        "TeacherName": "韩健",
-        "ClassRoom": "23楼502",
-        "CourseCode": "8778(00384)",
-        "VaildWeek": "00111111111111111000000000000000000000000000000000000",
-        "WeekCode": 3,
-        "DayCode": [
-            1,
-            2
-        ]
-    },
-    {
-        "CourseName": "体育B",
-        "TeacherName": "范洪成",
-        "ClassRoom": "",
-        "CourseCode": "17279(05275)",
-        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
-        "WeekCode": 3,
+        "WeekCode": 6,
         "DayCode": [
             3,
             4
-        ]
-    },
-    {
-        "CourseName": "电路信号与系统",
-        "TeacherName": "曾周末",
-        "ClassRoom": "26楼A111",
-        "CourseCode": "40387(02186)",
-        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
-        "WeekCode": 3,
-        "DayCode": [
-            7,
-            8
-        ]
-    },
-    {
-        "CourseName": "中文交际与写作",
-        "TeacherName": "王用源",
-        "ClassRoom": "23楼410",
-        "CourseCode": "16135(02619)",
-        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
-        "WeekCode": 4,
-        "DayCode": [
-            1,
-            2
-        ]
-    },
-    {
-        "CourseName": "线性代数及其应用",
-        "TeacherName": "朱高生",
-        "ClassRoom": "23楼106",
-        "CourseCode": "17170(02449)",
-        "VaildWeek": "01111111111111100000000000000000000000000000000000000",
-        "WeekCode": 4,
-        "DayCode": [
-            3,
-            4
-        ]
-    },
-    {
-        "CourseName": "物理基础 A",
-        "TeacherName": "刘卫芳",
-        "ClassRoom": "23楼504",
-        "CourseCode": "40704(02184)",
-        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
-        "WeekCode": 4,
-        "DayCode": [
-            5,
-            6
-        ]
-    },
-    {
-        "CourseName": "单片机装调及实验",
-        "TeacherName": "肖谧",
-        "ClassRoom": "26楼A111",
-        "CourseCode": "17732(04358)",
-        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
-        "WeekCode": 4,
-        "DayCode": [
-            9,
-            10,
-            11
-        ]
-    },
-    {
-        "CourseName": "单片机装调及实验",
-        "TeacherName": "肖谧",
-        "ClassRoom": "26楼A111",
-        "CourseCode": "17732(04358)",
-        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
-        "WeekCode": 5,
-        "DayCode": [
-            0
-        ]
-    },
-    {
-        "CourseName": "工科数学分析B",
-        "TeacherName": "韩健",
-        "ClassRoom": "23楼502",
-        "CourseCode": "8778(00384)",
-        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
-        "WeekCode": 5,
-        "DayCode": [
-            1,
-            2
-        ]
-    },
-    {
-        "CourseName": "工科数学分析B",
-        "TeacherName": "韩健",
-        "ClassRoom": "23楼502",
-        "CourseCode": "8778(00384)",
-        "VaildWeek": "00100000000000000000000000000000000000000000000000000",
-        "WeekCode": 5,
-        "DayCode": [
-            5,
-            6
-        ]
-    },
-    {
-        "CourseName": "工科数学分析B",
-        "TeacherName": "韩健",
-        "ClassRoom": "23楼502",
-        "CourseCode": "8778(00384)",
-        "VaildWeek": "00010000000000000000000000000000000000000000000000000",
-        "WeekCode": 5,
-        "DayCode": [
-            5,
-            6
-        ]
-    },
-    {
-        "CourseName": "中国近现代史纲要",
-        "TeacherName": "蔡文杰",
-        "ClassRoom": "23楼202",
-        "CourseCode": "39697(01787)",
-        "VaildWeek": "01111111111111111000000000000000000000000000000000000",
-        "WeekCode": 5,
-        "DayCode": [
-            9,
-            10,
-            11
         ]
     }
 ]

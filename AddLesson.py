@@ -69,5 +69,5 @@ for lesson in lessons:
             
 }
             r = requests.post(url=URL['ADDURL'], json=page, headers=HEADERS)
-            print(r)
+            print(r.text)
             print(lesson["CourseName"])
